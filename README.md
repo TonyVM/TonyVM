@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TonyVM
-- 👀 I’m interested in web development and job offers
-- 🌱 I’m currently learning Java advanced level, Spring Boot, Javascript Advanced level, ReactJS
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Java advanced level, Spring Boot, Web3, Javascript Advanced features, ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://wa.me/+5354218219
 
