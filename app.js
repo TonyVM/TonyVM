@@ -14,8 +14,8 @@ function renderData(_data) {
     let row = ''
     _data.forEach( e => {
         row += `<tr>
-            <td class="td">${e.symbol}</td>
-            <td class="td">${e.price}</td>
+            <td class=".border-bottom">${e.symbol}</td>
+            <td class=".border-bottom">${e.price}</td>
             </tr>`
     });
     dataBody.innerHTML = row
