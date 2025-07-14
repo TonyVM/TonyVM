@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @TonyVM
+- 👋 Hi, I’m Antonio, but friends call me Toni
 - 👀 I’m interested in Web Development
-- 🌱 I’m Backend Software Engineer, JavaScript, NodeJS, Python(ML)
+- 🌱 I’m a Software Engineer in Test
+- 🛠️ Python, JS, Selenium, Pytest, SQL
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me https://wa.me/+524494914291
 
